@@ -1,0 +1,11 @@
+{
+  "source": "Synthetic practice data, cleaned",
+  "description": "Cleaned version of practice_ev_registrations_SYNTHETIC.csv",
+  "rows": 40,
+  "columns": [
+    "year",
+    "state",
+    "ev_registrations",
+    "avg_price_lakh"
+  ]
+}

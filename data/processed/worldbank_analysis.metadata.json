@@ -1,0 +1,14 @@
+{
+  "source": "World Bank Open Data API",
+  "description": "Cleaned World Bank data with yearly percentage growth",
+  "rows": 114,
+  "columns": [
+    "country_code",
+    "country",
+    "indicator_id",
+    "indicator",
+    "year",
+    "value",
+    "growth_percent"
+  ]
+}

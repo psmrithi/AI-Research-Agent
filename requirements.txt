@@ -1,0 +1,11 @@
+requests
+pytest
+google-genai
+python-dotenv
+pydantic
+matplotlib
+torch
+sentence-transformers
+chromadb
+langgraph
+streamlit

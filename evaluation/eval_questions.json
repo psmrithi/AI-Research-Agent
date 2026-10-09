@@ -1,0 +1,23 @@
+[
+  {
+    "id": "q1",
+    "question": "What factors support solar energy growth in India?",
+    "search_query": "solar energy India policy growth",
+    "should_answer": true,
+    "expect_terms": ["solar", "policy"]
+  },
+  {
+    "id": "q2",
+    "question": "How is machine learning used in official statistics?",
+    "search_query": "machine learning official statistics",
+    "should_answer": true,
+    "expect_terms": ["machine learning", "statistics"]
+  },
+  {
+    "id": "q3",
+    "question": "What is the population of the fictional city of Zorgon?",
+    "search_query": null,
+    "should_answer": false,
+    "expect_terms": []
+  }
+]

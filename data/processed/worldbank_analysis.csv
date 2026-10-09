@@ -1,0 +1,115 @@
+country_code,country,indicator_id,indicator,year,value,growth_percent
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2010,18.7929868229344,
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2011,16.836073329416,-10.412998806183593
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2012,20.0980373624987,19.374850472903304
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2013,20.1334892653115,0.17639484977249875
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2014,22.0557011175979,9.547335918559474
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2015,23.8649488788885,8.203084325653265
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2016,25.0520357144816,4.974185537196885
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2017,25.0386725537724,-0.053341616072644094
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2018,25.8127409492271,3.0914913472043226
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2019,26.8897023697607,4.1722086881511355
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2020,28.111907967469,4.545255209231169
+CN,China,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2021,28.427997926748,1.1243988122214166
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,4629.24551710077,
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,5703.76027973346,23.211444687117044
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,6405.0574241349,12.29534745513905
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,7147.03518622344,11.584248398659058
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,7781.06597484974,8.871242020026028
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,8175.33285077393,5.067003379723989
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,8254.86859320357,0.9728746692204693
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,8979.67652709856,8.780369132607891
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,10085.6638148819,12.316560451211455
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,10342.9009524335,2.5505226257098945
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,10627.4637989619,2.751286586201407
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,12887.4357242941,21.265392835804864
+CN,China,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,12970.6056414327,0.6453566009397393
+CN,China,SP.POP.TOTL,"Population, total",2010,1337705000.0,
+CN,China,SP.POP.TOTL,"Population, total",2011,1345035000.0,0.5479533977969631
+CN,China,SP.POP.TOTL,"Population, total",2012,1354190000.0,0.6806514328623336
+CN,China,SP.POP.TOTL,"Population, total",2013,1363240000.0,0.6682961770504869
+CN,China,SP.POP.TOTL,"Population, total",2014,1371860000.0,0.6323171268448613
+CN,China,SP.POP.TOTL,"Population, total",2015,1379860000.0,0.5831498840989546
+CN,China,SP.POP.TOTL,"Population, total",2016,1387790000.0,0.5746959836505194
+CN,China,SP.POP.TOTL,"Population, total",2017,1396215000.0,0.607080321950737
+CN,China,SP.POP.TOTL,"Population, total",2018,1402760000.0,0.46876734600329595
+CN,China,SP.POP.TOTL,"Population, total",2019,1407745000.0,0.35537084034331645
+CN,China,SP.POP.TOTL,"Population, total",2020,1411100000.0,0.23832441244686642
+CN,China,SP.POP.TOTL,"Population, total",2021,1412360000.0,0.08929204166960858
+CN,China,SP.POP.TOTL,"Population, total",2022,1412175000.0,-0.013098643405362598
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2010,14.9419430950586,
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2011,15.306114125047,2.4372401077396244
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2012,16.2449871875852,6.13397401109026
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2013,15.2987635527139,-5.824711487580769
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2014,15.8631842012333,3.689321993732464
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2015,14.8948527456761,-6.104269125752926
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2016,13.5971725653557,-8.712272638593966
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2017,14.1593786090421,4.13472757651725
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2018,15.0102597827208,6.0093115465909674
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2019,16.8275232132522,12.106808655126411
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2020,19.7557474948152,17.40139796245792
+IN,India,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2021,19.131292447169,-3.160877854963906
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,1347.51939071367,
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,1445.46127486037,7.268309815922436
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,1429.32199520032,-1.1165487405817132
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,1432.84397512195,0.2464091319840378
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,1553.88396075118,8.44753425570486
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,1583.99815907985,1.9379953129905703
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,1707.50892912243,7.7974061607702705
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,1950.10468280866,14.207583313248717
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,1966.25455171679,0.8281539473496302
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,2041.42863698585,3.823212269409537
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1907.04251637669,-6.582944814939995
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,2239.61384367482,17.439114463478433
+IN,India,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,2279.98145719369,1.8024363277123534
+IN,India,SP.POP.TOTL,"Population, total",2010,1243481564.0,
+IN,India,SP.POP.TOTL,"Population, total",2011,1261224954.0,1.4269121886233194
+IN,India,SP.POP.TOTL,"Population, total",2012,1278674502.0,1.383539704369019
+IN,India,SP.POP.TOTL,"Population, total",2013,1295829511.0,1.3416243909742054
+IN,India,SP.POP.TOTL,"Population, total",2014,1312277191.0,1.269278084839054
+IN,India,SP.POP.TOTL,"Population, total",2015,1328024498.0,1.1999985298837723
+IN,India,SP.POP.TOTL,"Population, total",2016,1343944296.0,1.1987578560467282
+IN,India,SP.POP.TOTL,"Population, total",2017,1359657400.0,1.1691782201663559
+IN,India,SP.POP.TOTL,"Population, total",2018,1374659064.0,1.103341474109576
+IN,India,SP.POP.TOTL,"Population, total",2019,1389030312.0,1.0454408934083226
+IN,India,SP.POP.TOTL,"Population, total",2020,1402617695.0,0.9781919719546117
+IN,India,SP.POP.TOTL,"Population, total",2021,1414203896.0,0.8260412685011875
+IN,India,SP.POP.TOTL,"Population, total",2022,1425423212.0,0.7933308649292536
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2010,10.6143983117236,
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2011,12.686393699636,19.520610844459107
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2012,12.4129621083936,-2.1553137772339914
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2013,13.0285802128985,4.959477835581416
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2014,13.3792940741702,2.6918808921672754
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2015,13.6328082889697,1.894825043788595
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2016,15.2594449655463,11.931779880545301
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2017,17.2854220343839,13.276872608485913
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2018,17.1628863424875,-0.7088961533750937
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2019,17.938273721697,4.5178145664811264
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2020,19.9166987281584,11.029071342959963
+US,United States,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),2021,20.2733089261925,1.790508572236016
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,48642.6312088213,
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,50024.8812320773,2.841643202486388
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,51708.3940614082,3.365350977088166
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,53297.3862901595,3.07298700258265
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,55153.3940182967,3.482361626577335
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,56849.4697923159,3.0751974637436508
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,57976.628204291,1.982706991099259
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,60047.7190728307,3.572285820489318
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,62875.6661382728,4.709499559861929
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,65227.9565911038,3.741177783560934
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,64465.2971415748,-1.1692217407788807
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,71441.2319805947,10.821224982023692
+US,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,78008.6895811877,9.192811235921706
+US,United States,SP.POP.TOTL,"Population, total",2010,309378227.0,
+US,United States,SP.POP.TOTL,"Population, total",2011,311839461.0,0.7955420857719275
+US,United States,SP.POP.TOTL,"Population, total",2012,314339099.0,0.8015784763045097
+US,United States,SP.POP.TOTL,"Population, total",2013,316726282.0,0.7594292302784744
+US,United States,SP.POP.TOTL,"Population, total",2014,319257560.0,0.7992004907253047
+US,United States,SP.POP.TOTL,"Population, total",2015,321815121.0,0.8010964564159506
+US,United States,SP.POP.TOTL,"Population, total",2016,324353340.0,0.7887196201697533
+US,United States,SP.POP.TOTL,"Population, total",2017,326608609.0,0.6953124022092805
+US,United States,SP.POP.TOTL,"Population, total",2018,328529577.0,0.5881559600898312
+US,United States,SP.POP.TOTL,"Population, total",2019,330226227.0,0.51643752002275
+US,United States,SP.POP.TOTL,"Population, total",2020,331578104.0,0.40937905274252007
+US,United States,SP.POP.TOTL,"Population, total",2021,332100166.0,0.15744767030816398
+US,United States,SP.POP.TOTL,"Population, total",2022,333996304.0,0.5709536441484309
